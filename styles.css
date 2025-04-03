@@ -3,7 +3,7 @@ body {
     padding: 0;
     background-color: #f78da7;
 }
-h1 {
+.title-name{
     font-size: 70px;
     text-align: center;
     color: black;
@@ -32,7 +32,7 @@ h1 {
     margin-top: 30px;
 
 }
-button {
+.options-button {
     width: 350px;
     height: 40px;
     background-color: black;
@@ -43,4 +43,10 @@ a {
     font-family: "Montserrat", sans-serif;
     font-weight: 800;
     font-size: 12px;
+}
+.social-icons{
+    font-size: 25px;
+    margin-top: 20px;
+    margin-left: 15px;
+    
 }
