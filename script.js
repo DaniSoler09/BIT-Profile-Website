@@ -1,9 +1,10 @@
-document.getElementById("boton").style.backgroundColor ="#ffffff";
 
-let titulo = document.getElementById("titulo")
 
-let otroBoton = document.getElementById("cambio")
+let principaltitle=document.getElementById("name");
 
-otroBoton.addEventListener("click", function(){
-    titulo.innerText = "Maria Soler"
-});
+
+    let buttonName=document.getElementById("ejemplo");
+    buttonName.addEventListener("click",function(){
+        principaltitle.style.color="#ffffff";
+        });
+    

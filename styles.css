@@ -31,12 +31,21 @@ body {
     height: 150px;
     margin: 0 auto;
     margin-top: 30px;
+    padding-bottom: 50px;
 
 }
 .options-button {
     width: 350px;
     height: 40px;
     background-color: black;
+    border-color: #ffffff;
+}
+
+.options-button:hover{
+    background-color: aqua;
+}
+.options-button:active{
+    background-color: blue;
 }
 a {
     color: snow;
