@@ -13,7 +13,9 @@ body{
     padding-top: 40px;
     margin-top: 0px;
     margin-left: 70px;
-
+}
+.title-text:hover{
+    color: #ffffff;
 }
 .images{
     width: 100%;
@@ -38,4 +40,7 @@ body{
 }
 .place-description{
     font-size: 25px;
+}
+.place-description:hover{
+    color: #ffffff;
 }
