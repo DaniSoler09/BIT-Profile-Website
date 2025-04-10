@@ -6,5 +6,6 @@ This is my first project implementing CSS and HTLM.
 
 I have more than 1 HTLM and CSS document. 
 
-Please ignore the JS I was doing some practice.
+-font owesome for media icons:
+<script src="https://kit.fontawesome.com/b6b4b833e7.js" crossorigin="anonymous"></script>
 
