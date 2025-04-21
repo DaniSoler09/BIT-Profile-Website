@@ -39,6 +39,7 @@ main{
 .contact-top-box h2{
     font-size: 30px ;
     padding-bottom: 0;
+    letter-spacing: 20px;
 }
 .contact-info-pic{
     display: grid;
