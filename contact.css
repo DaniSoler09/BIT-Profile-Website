@@ -14,6 +14,9 @@ header{
     text-align: center;
     font-size: 40px;
 }
+.contact-title:hover {
+    color: #ffffff
+}
 .social-icons{
     font-size: 25px;
     margin-top: 20px;
@@ -22,6 +25,7 @@ header{
 main{
     background-color: pink;
     padding-bottom: 150px;
+    height: auto;
 }
 .main-container{
     width: 75%;
